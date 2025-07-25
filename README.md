@@ -15,6 +15,5 @@
 ## Who I am out of work
 
 - 🌱 <strong>I'm currently studying:</strong> <a href="https://cursos.unibtadigital.com.br/graduacao/analise-e-desenvolvimento-de-sistemas">Analysis and systems development </a> and <a href="https://descomplicandolinguagens.com.br/course/formacao-abap-jr/">SAP ABAP Development</a>
-- 😄 <strong>In my free time I am:</strong> a sci-fi and fantasy reader; a gamer girl addicted in survival games; a pet mother that spend all the love with her pet sun 🐶
-- ⚡ <strong>Something important about me:</strong> I raise the flags of the LGBT community as a bisexual trans woman and I consider diversity an important point in the places I live (whether at home, courses or work).
+- 😄 <strong>In my free time I am:</strong> a sci-fi and fantasy reader; a gamer girl addicted in survival games; a pet mother that spend all the love with her pet son 🐶
 
